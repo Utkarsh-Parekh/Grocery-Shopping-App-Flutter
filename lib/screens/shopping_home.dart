@@ -71,7 +71,7 @@ class ShoppingHomePage extends StatelessWidget {
           }
           else{
             showAlertDialogBox(context);
-          }
+          } ;
         }),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
