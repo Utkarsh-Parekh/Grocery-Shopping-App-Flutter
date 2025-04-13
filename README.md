@@ -1,7 +1,5 @@
 # Grocery Shopping App - Flutter
 
-* Source Code available in Master Branch.
-
 ## Overview 📙
 This project showcases advanced Flutter development utilizing robust state management approaches with Provider and BLoC, along with seamless **Stripe Payment Integration** for secure and real-time transactions.
 
@@ -27,6 +25,13 @@ This project showcases advanced Flutter development utilizing robust state manag
 * Remove Product to Cart
 * App launch with Icon
 
+## Documentations 🔗 
+[Flutter Stripe](https://pub.dev/packages/flutter_stripe)
+
+[Stripe Official Documentation](https://docs.page/flutter-stripe/flutter_stripe/sheet)
+
+
 
 ## Grocery Shopping App-Demo
-https://github.com/user-attachments/assets/10ac8090-f25e-4a2d-967c-0cb8177846bc
+https://github.com/user-attachments/assets/67b4637f-7153-49d3-98d2-d6ac39560e01
+
